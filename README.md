@@ -1,6 +1,6 @@
 # Machine Learning Labs
 
-This repository contains three lab assignments implemented using the **Zoo Dataset** and **House Pricing Dataset**.
+This repository contains four lab assignments implemented using the **Zoo Dataset** and **House Pricing Dataset**.
 
 ## LAB 1
 - Dataset Used: **Zoo Dataset**
@@ -15,11 +15,23 @@ This repository contains three lab assignments implemented using the **Zoo Datas
 - Status: **Reuploaded**
 
 ## LAB 3
-- Datasets Used:  
-  - **Zoo Dataset** – Logistic Regression  
+- Dataset Used: **Zoo Dataset**
+- Description:  
+  Earlier Lab 1 and Lab 2 were performed on House Price Dataset but files were reuploaded in this lab because individual datasets were given to each student.  
+- Status: **Reuploaded**
+
+## LAB 4
+- Datasets Used: 
   - **House Pricing Dataset** – Linear Regression
 - Description:  
-  Lab 3 demonstrates:
-  - Classification using **Logistic Regression** on the Zoo Dataset  
+  Lab 4 demonstrates: 
   - Prediction using **Linear Regression** on the House Pricing Dataset  
+- Status: **Uploaded**
+
+- ## LAB 5
+- Datasets Used:  
+  - **Zoo Dataset** – Logistic Regression 
+- Description:  
+  Lab 5 demonstrates:
+  - Classification using **Logistic Regression** on the Zoo Dataset 
 - Status: **Uploaded**
