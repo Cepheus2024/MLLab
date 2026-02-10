@@ -26,7 +26,7 @@ This repository contains four lab assignments implemented using the **Zoo Datase
 - Description:  
   Lab 4 demonstrates: 
   - Prediction using **Linear Regression** on the House Pricing Dataset  
-- Status: **Uploaded**
+- Status: **ReUploaded**
 
 - ## LAB 5
 - Datasets Used:  
@@ -34,4 +34,4 @@ This repository contains four lab assignments implemented using the **Zoo Datase
 - Description:  
   Lab 5 demonstrates:
   - Classification using **Logistic Regression** on the Zoo Dataset 
-- Status: **Uploaded**
+- Status: **Renamed**
